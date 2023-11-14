@@ -1,0 +1,294 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Arial";
+  overflow-x: hidden;
+  /* background-color: #1E1E1E; */
+    margin-left: auto;
+  margin-right: auto;
+  
+}
+.seletor-de-texto {
+    font-family: Arial, sans-serif; /* Fonte padrão */
+}
+
+
+img {
+  position: absolute;
+  display: block;
+  margin: 0px;
+  border: none;
+  padding: 0px;
+}
+
+div {
+  position: absolute;
+}
+
+#content-container{
+  display: block;
+  position: relative;
+  width: 1440px;
+  height: 2321px;
+  overflow: hidden;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#_bg__desktop {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  background: rgb(247, 243, 243);
+}
+
+#rectangle_2 {
+  top: 2124px;
+  left: 0px;
+  width: 1440px;
+  height: 197px;
+}
+
+#vector {
+  top: 2187px;
+  left: 1182px;
+  width: 62px;
+  height: 62px;
+}
+
+#youtube__v1_1 {
+  top: 2177px;
+  left: 1088px;
+  width: 78px;
+  height: 78px;
+}
+
+#primevideo {
+  top: 2187px;
+  left: 24px;
+  width: 1237px;
+  height: 71px;
+  overflow: hidden;
+  font-family: Actor;
+  font-size: 20px;
+  line-height: 66px;
+  text-align: left;
+  color: #ffffff;
+}
+
+#rectangle_1 {
+  top: 0px;
+  left: -1px;
+  width: 1452px;
+  height: 197px;
+  background: rgba(30, 30, 30, 1);
+}
+
+#filmes {
+  top: 78px;
+  left: 612px;
+  width: 173.2px;
+  height: 49.2px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 32px;
+  line-height: 44.2px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#inicio {
+  top: 78px;
+  left: 321px;
+  width: 173.2px;
+  height: 49.2px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 32px;
+  line-height: 44.2px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#s_ries {
+  top: 78px;
+  left: 905px;
+  width: 170.2px;
+  height: 49.2px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 32px;
+  line-height: 44.2px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#image_1 {
+  top: 197px;
+  left: 2px;
+  width: 1440px;
+  height: 535px;
+}
+
+#image_2 {
+  top: 764px;
+  left: 93px;
+  width: 354px;
+  height: 546.72px;
+}
+
+#image_3 {
+  top: 1429px;
+  left: 968px;
+  width: 361.75px;
+  height: 546.72px;
+}
+
+#image_4 {
+  top: 764px;
+  left: 958px;
+  width: 381.9px;
+  height: 546.72px;
+}
+
+#image_5 {
+  top: 1429px;
+  left: 93px;
+  width: 369px;
+  height: 547px;
+}
+
+#image_6 {
+  top: 764px;
+  left: 525px;
+  width: 369.24px;
+  height: 546.72px;
+}
+
+#image_7 {
+  top: 1429px;
+  left: 520px;
+  width: 379.78px;
+  height: 546.72px;
+}
+
+#prime {
+  top: 2166px;
+  left: 1288px;
+  width: 100px;
+  height: 100px;
+}
+
+#image_9 {
+  top: 1025px;
+  left: 1366px;
+  width: 77.61px;
+  height: 69.8px;
+}
+
+#image_12 {
+  top: 1672px;
+  left: 1366px;
+  width: 77.61px;
+  height: 69.8px;
+}
+
+#image_10 {
+  top: 1025px;
+  left: 1px;
+  width: 77.61px;
+  height: 69.8px;
+}
+
+#image_11 {
+  top: 1672px;
+  left: 1px;
+  width: 77.61px;
+  height: 69.8px;
+}
+
+#the_boys {
+  top: 1342px;
+  left: 181px;
+  width: 174px;
+  height: 51.5px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 46.5px;
+  text-align: center;
+  color: #000000;
+}
+
+#interstellar {
+  top: 1342px;
+  left: 1068px;
+  width: 183px;
+  height: 51.5px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 46.5px;
+  text-align: center;
+  color: #000000;
+}
+
+#top_gun {
+  top: 2018px;
+  left: 1083px;
+  width: 140px;
+  height: 51.5px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 46.5px;
+  text-align: center;
+  color: #000000;
+}
+
+#the_bigbang_theory {
+  top: 2018px;
+  left: 554px;
+  width: 328px;
+  height: 51.5px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 46.5px;
+  text-align: center;
+  color: #000000;
+}
+
+#o_senhor_dos_an_is {
+  top: 2018px;
+  left: 121px;
+  width: 319px;
+  height: 51.5px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 46.5px;
+  text-align: center;
+  color: #000000;
+}
+
+#todo_mundo_odeia_o_chris {
+  top: 1342px;
+  left: 506px;
+  width: 416px;
+  height: 51.5px;
+  overflow: hidden;
+  font-family: Roboto;
+  font-size: 35px;
+  font-weight: bold;
+  line-height: 46.5px;
+  text-align: center;
+  color: #000000;
+}
