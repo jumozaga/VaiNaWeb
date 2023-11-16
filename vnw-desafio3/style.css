@@ -1,0 +1,314 @@
+.beat {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.beat .div {
+    background-color: #ffffff;
+    width: 1366px;
+    height: 2001px;
+    position: relative;
+}
+
+.beat .menu_header {
+    position: absolute;
+    width: 1366px;
+    height: 602px;
+    top: 0;
+    left: 0;
+    background-color: #129799;
+}
+
+.beat .arte-design {
+    position: absolute;
+    width: 187px;
+    top: 536px;
+    left: 281px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #f7f7f7;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.beat .estilo-musica {
+    position: absolute;
+    width: 210px;
+    top: 536px;
+    left: 568px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #f7f7f7;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.beat .ebook-videos {
+    position: absolute;
+    width: 213px;
+    top: 536px;
+    left: 879px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #f7f7f7;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.beat .overlap {
+    position: absolute;
+    width: 118px;
+    height: 52px;
+    top: 23px;
+    left: 474px;
+}
+
+.beat .portifolio {
+    top: 0;
+    left: 0;
+    position: absolute;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #f7f7f7;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.beat .hand-cursor {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 20px;
+    left: 43px;
+    object-fit: cover;
+}
+
+.beat .sobre {
+    top: 23px;
+    left: 692px;
+    position: absolute;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #f7f7f7;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.beat .contato {
+    top: 23px;
+    left: 871px;
+    position: absolute;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #f7f7f7;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.beat .ritmo{
+    position: absolute;
+    width: 536px;
+    top: 263px;
+    left: 107px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #f7f7f7;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.beat .life {
+    position: absolute;
+    width: 643px;
+    height: 320px;
+    top: 141px;
+    left: 660px;
+    object-fit: cover;
+}
+
+.beat .corpo {
+    position: absolute;
+    width: 1366px;
+    height: 1239px;
+    top: 602px;
+    left: 0;
+    background-color: #ffa185;
+}
+
+.beat .rectangle {
+    left: 701px;
+    position: absolute;
+    width: 642px;
+    height: 340px;
+    top: 760px;
+    object-fit: cover;
+}
+
+.beat .img {
+    left: 30px;
+    position: absolute;
+    width: 642px;
+    height: 340px;
+    top: 760px;
+    object-fit: cover;
+}
+
+.beat .rectangle-2 {
+    position: absolute;
+    width: 642px;
+    height: 340px;
+    top: 364px;
+    left: 702px;
+    object-fit: cover;
+}
+
+.beat .rectangle-3 {
+    position: absolute;
+    width: 642px;
+    height: 340px;
+    top: 364px;
+    left: 31px;
+    object-fit: cover;
+}
+
+.beat .veja {
+    position: absolute;
+    top: 1150px;
+    left: 618px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.beat .AQUARELA-uma {
+    position: absolute;
+    width: 1220px;
+    height: 280px;
+    top: 26px;
+    left: 41px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: 48px;
+}
+
+.beat .span {
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.beat .span {
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 30px;
+}
+
+.beat .texto {
+    font-family: "Roboto-Regular", Helvetica;
+    color: #000000;
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.beat .rodape {
+    position: absolute;
+    width: 1366px;
+    height: 160px;
+    top: 1841px;
+    left: 0;
+    background-color: #129799;
+}
+
+.beat .portifolio2 {
+    top: 59px;
+    left: 751px;
+    position: absolute;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #f7f7f7;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.beat .sobre2 {
+    top: 59px;
+    left: 969px;
+    position: absolute;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #f7f7f7;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.beat .contato2 {
+    top: 59px;
+    left: 1148px;
+    position: absolute;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #f7f7f7;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.beat .insta {
+    position: absolute;
+    width: 40px;
+    height: 38px;
+    top: 62px;
+    left: 112px;
+}
+
+.beat .face {
+    position: absolute;
+    width: 40px;
+    height: 38px;
+    top: 62px;
+    left: 182px;
+}
+
+.beat .linkedin {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 60px;
+    left: 253px;
+    object-fit: cover;
+}
+
+.beat .pinterest {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 60px;
+    left: 323px;
+    object-fit: cover;
+}
