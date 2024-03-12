@@ -8,4 +8,4 @@
 #### Modulo 2
 
 + Desafio 1 https://codesandbox.io/p/devbox/vnw-m2-desafio1-xn7pmj
-+ Desafio 2 
++ Desafio 2  https://jumozaga.github.io/VaiNaWeb/vnw_m2_desafio2/juliana_mozaga_neves/
